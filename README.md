@@ -52,6 +52,7 @@ Creating test plans, bug reporting, Traceability Metrics documents, and Performa
 - Macbook 
 
 **Mobile Device:**
+
 Android:
 - Samsung Galaxy A06
 
