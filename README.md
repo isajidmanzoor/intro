@@ -46,7 +46,8 @@ Creating test plans, bug reporting, Traceability Metrics documents, and Performa
 - Mozilla
 - Opera
 
-Devices I have:
+**Devices I have:**
+
 **Laptop/Computer:**
 - Macbook 
 
