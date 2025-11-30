@@ -1,4 +1,4 @@
-Hi viewer, I am Sajid Manzoor, I hold BS Information Technology degree. I have 1 year of experience in Software QA and Testing.
+I am Sajid Manzoor, I hold BS Information Technology degree. I have 1 year of experience in Software QA and Testing.
 
 As a Software Quality Assurance Engineer, I will be responsible for the quality of your product.
 
