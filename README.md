@@ -1,4 +1,4 @@
-I am Sajid Manzoor, I hold BS Information Technology degree. I have 1 year of experience in Software QA and Testing.
+I am Sajid Manzoor, I hold BS Information Technology degree. I have 3 year of experience in Software QA and Automation.
 
 As a Software Quality Assurance Engineer, I will be responsible for the quality of your product.
 
@@ -18,12 +18,16 @@ Creating test plans, bug reporting, Traceability Metrics documents, and Performa
 
 **Testcases:** https://docs.google.com/spreadsheets/d/11QSzr2Ol11JfhMOyc5C3-IGqAUygFcg7By0H7zcta_E/edit?usp=sharing
 
+**Bug Report:** 
+https://docs.google.com/document/d/1g9s1HUO2jB72MBZOEBjwCy4UOknje4p6cqjnytjk38E/edit?usp=sharing
 
 **Tools**
 
 ========================== **Bug Tracking and Reporting Tools**
 - Jira
 - Shortcut
+- Azure
+- Monday.com
 
 **Test Management Tools:**
 - Google Docs
@@ -49,7 +53,7 @@ Creating test plans, bug reporting, Traceability Metrics documents, and Performa
 **Devices I have:**
 
 **Laptop/Computer:**
-- Macbook 
+- Macbook Pro
 
 **Mobile Device:**
 
