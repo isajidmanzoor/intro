@@ -1,63 +1,159 @@
-I am Sajid Manzoor, I hold BS Information Technology degree. I have 3 year of experience in Software QA and Automation.
+<h1 align="center">Hi 👋, I'm Sajid Manzoor</h1>
+<h3 align="center">Associate SQA Engineer | Playwright Automation | AI/ML Testing | API Testing</h3>
 
-As a Software Quality Assurance Engineer, I will be responsible for the quality of your product.
+<p align="center">
+  <a href="https://www.linkedin.com/in/aitester" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/isajidmanzoor" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:isajidmanzoor@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-**I will do:** Test Planning : To avoid issues in advance. Problem solution : To assure that the problem should resolve even before it arise. Test scenario writing : Will all steps and conditions. Test Cases : Both smoke and Functional Debugging : To build a professional bug report. Screenshots to elaborate issues Screen recordings for bug evidence
+---
 
-**I have expertise in:**
+## 👨‍💻 About Me
 
-Working as an Excellent Team Player and Effective English Communication and Writing Skills.
-Talking effectively and always available on chats and calls.
-Creating test plans, bug reporting, Traceability Metrics documents, and Performance/ Throughput reports.
+- 🎓 **BS Information Technology** — The Islamia University of Bahawalpur (2020–2024)
+- 💼 **Associate SQA Engineer** at **Siznam & Co. LLC** (Feb 2025 – Present)
+- 🧪 **3 years of experience** in Manual Testing, Test Automation & API Testing
+- 🐛 Identified **500+ bugs** on Sojo Shield & **100+ bugs** on MailFlow
+- 🤖 Specialized in **AI/ML Testing**, **Agentic AI Workflows** & **Web3.0 Testing**
+- 🌍 Based in **Lahore, Pakistan**
+- 📫 Reach me at **isajidmanzoor@gmail.com**
 
-**I have experience of working in:**
-- Tested SalesForce Apps, Educational Apps, Billing Systems, Web and Mobile Applications, and medical companies.
-- Ability to do API and Web Services Testing Using Postman.
+---
 
-**Following are some of my examples of work:**
+## 🛠️ Technical Skills
 
-**Testcases:** https://docs.google.com/spreadsheets/d/11QSzr2Ol11JfhMOyc5C3-IGqAUygFcg7By0H7zcta_E/edit?usp=sharing
+### Test Automation
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 
-**Bug Report:** 
-https://docs.google.com/document/d/1g9s1HUO2jB72MBZOEBjwCy4UOknje4p6cqjnytjk38E/edit?usp=sharing
+### API Testing
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat)
 
-**Tools**
+### Defect & Project Management
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white)
 
-========================== **Bug Tracking and Reporting Tools**
-- Jira
-- Shortcut
-- Azure
-- Monday.com
+### Documentation & Test Management
+![TestRail](https://img.shields.io/badge/TestRail-65C179?style=flat)
+![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=flat&logo=google-docs&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
 
-**Test Management Tools:**
-- Google Docs
-- Testpad
-  
-**Screen Recording Tools**
-- Loom (Online)
-- TechSmith screen recorder.(Online)
-- ZD Screen recorder (Offline)
+### Performance Testing
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apache&logoColor=white)
 
-**Screenshot Capture Tools**
-- TechSmith Capture
-- LighShot
-- Flameshot
+### Specialized
+![AI/ML Testing](https://img.shields.io/badge/AI/ML_Testing-FF6F00?style=flat)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-7B2FBE?style=flat)
+![Web3.0](https://img.shields.io/badge/Web3.0_Testing-F16822?style=flat)
+![IoT Testing](https://img.shields.io/badge/IoT_Testing-00B4D8?style=flat)
 
-**Browsers I use for Web app testing:**
-- Google Chrome
-- Mozilla
-- Safari
-- Mozilla
-- Opera
+---
 
-**Devices I have:**
+## 💼 Experience
 
-**Laptop/Computer:**
-- Macbook Pro
+### 🏢 Associate SQA Engineer — Siznam & Co. LLC
+**Feb 2025 – Present | Lahore, Pakistan**
 
-**Mobile Device:**
+- ✅ End-to-end web automation using **Playwright** (Python & JavaScript)
+- ✅ Manual, exploratory, regression & API testing across multiple projects
+- ✅ IoT-based application and hardware integration testing
+- ✅ Test planning, timeline estimation & documentation (TestRail, Google Docs)
+- ✅ 100+ defects tracked via JIRA, Shortcut, Notion & ClickUp
+- ✅ Performance testing using **JMeter**
+- ✅ Agile team collaboration & sprint-based delivery
 
-Android:
-- Samsung Galaxy A06
+---
 
-Profound Regards, Sajid Manzoor
+### 🏢 Trainee SQA Engineer — Smart Venture Technology
+**Oct 2024 – Feb 2025 | Lahore, Pakistan**
+
+- ✅ Identified **500+ bugs** across SaaS-based products
+- ✅ API automation using **Pytest** and **Postman**
+- ✅ User story review for reasonability & testability
+- ✅ Detailed bug reports with steps to reproduce & expected vs actual results
+- ✅ Test planning, timeline estimation & test build management
+
+---
+
+## 🚀 Projects
+
+### 📧 MailFlow — AI-Powered Email Campaign Manager
+> **Live:** [email.deltaprimeaisolutions.com](https://email.deltaprimeaisolutions.com)
+
+- 🐛 Identified & reported **100+ bugs**
+- 🧪 Manual, API, Exploratory & Regression Testing
+- 📋 Tested: Campaign creation, scheduling, template rendering, analytics, email delivery
+- 🔗 API testing via **Postman** — payloads, auth tokens, error handling
+
+---
+
+### 🔐 Sojo Shield — Web Security Application
+
+- 🐛 Identified & documented **500+ bugs** (Critical, Major, Minor)
+- 🧪 Manual, Security, Exploratory, Functional & API Testing
+- 📋 Tested: Authentication, dashboard, security monitoring, reporting modules
+- 📊 All bugs logged in **JIRA** with reproduction steps & screenshots
+
+---
+
+## 📊 Testing Types I Cover
+
+| Testing Type | Tools |
+|---|---|
+| Manual Testing | Google Docs, TestRail, Excel |
+| Automation Testing | Playwright, Pytest |
+| API Testing | Postman, DevTools Network Tab |
+| Performance Testing | JMeter |
+| AI/ML Testing | Postman, Playwright, Custom Scripts |
+| Regression Testing | Playwright, Pytest |
+| Exploratory Testing | Manual |
+| Smoke & Sanity | Manual + Automation |
+| IoT Testing | Manual + Hardware |
+| Web3.0 Testing | Manual + API |
+
+---
+
+## 📜 Certifications
+
+- 🏅 **Basics of Software Quality Assurance** — My Great Learning (December 2024)
+
+---
+
+## 🌐 Languages
+
+- 🇵🇰 **Urdu** — Native
+- 🇬🇧 **English** — Professional Working Proficiency
+
+---
+
+## 📫 Contact Me
+
+| Platform | Link |
+|---|---|
+| 📧 Email | isajidmanzoor@gmail.com |
+| 💼 LinkedIn | [linkedin.com/in/aitester](https://www.linkedin.com/in/aitester) |
+| 🐙 GitHub | [github.com/isajidmanzoor](https://github.com/isajidmanzoor) |
+| 📍 Location | Lahore, Pakistan |
+| 📞 Phone | +923136194135 |
+
+---
+
+<p align="center">
+  <i>"Quality is never an accident; it is always the result of intelligent effort."</i>
+</p>
+
+<p align="center">
+  Made with ❤️ by <b>Sajid Manzoor</b>
+</p>
