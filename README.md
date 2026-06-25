@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajid Manzoor</h1>
-<h3 align="center">Associate SQA Engineer | Playwright Automation | AI/ML Testing | API Testing</h3>
+<h3 align="center">SQA Engineer | Playwright Automation | AI/ML Testing | API Testing</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aitester" target="_blank">
@@ -19,8 +19,8 @@
 
 - 🎓 **BS Information Technology** — The Islamia University of Bahawalpur (2020–2024)
 - 💼 **Associate SQA Engineer** at **Siznam & Co. LLC** (Feb 2025 – Present)
-- 🧪 **3 years of experience** in Manual Testing, Test Automation & API Testing
-- 🐛 Identified **500+ bugs** on Sojo Shield & **100+ bugs** on MailFlow
+- 🧪 **3 years of experience** in Manual Testing, Test Automation & AI Testing
+- 🐛 Identified **bugs** on Sojo Shield & on MailFlow
 - 🤖 Specialized in **AI/ML Testing**, **Agentic AI Workflows** & **Web3.0 Testing**
 - 🌍 Based in **Lahore, Pakistan**
 - 📫 Reach me at **isajidmanzoor@gmail.com**
@@ -70,7 +70,7 @@
 - ✅ Manual, exploratory, regression & API testing across multiple projects
 - ✅ IoT-based application and hardware integration testing
 - ✅ Test planning, timeline estimation & documentation (TestRail, Google Docs)
-- ✅ 100+ defects tracked via JIRA, Shortcut, Notion & ClickUp
+- ✅ Defects tracked via JIRA, Shortcut, Notion & ClickUp
 - ✅ Performance testing using **JMeter**
 - ✅ Agile team collaboration & sprint-based delivery
 
@@ -79,7 +79,7 @@
 ### 🏢 Trainee SQA Engineer — Smart Venture Technology
 **Oct 2024 – Feb 2025 | Lahore, Pakistan**
 
-- ✅ Identified **500+ bugs** across SaaS-based products
+- ✅ Identified **1000+ bugs** across SaaS-based products
 - ✅ API automation using **Pytest** and **Postman**
 - ✅ User story review for reasonability & testability
 - ✅ Detailed bug reports with steps to reproduce & expected vs actual results
@@ -92,7 +92,7 @@
 ### 📧 MailFlow — AI-Powered Email Campaign Manager
 > **Live:** [email.deltaprimeaisolutions.com](https://email.deltaprimeaisolutions.com)
 
-- 🐛 Identified & reported **100+ bugs**
+- 🐛 Identified & reported **bugs**
 - 🧪 Manual, API, Exploratory & Regression Testing
 - 📋 Tested: Campaign creation, scheduling, template rendering, analytics, email delivery
 - 🔗 API testing via **Postman** — payloads, auth tokens, error handling
@@ -101,7 +101,7 @@
 
 ### 🔐 Sojo Shield — Web Security Application
 
-- 🐛 Identified & documented **500+ bugs** (Critical, Major, Minor)
+- 🐛 Identified & documented **bugs** (Critical, Major, Minor)
 - 🧪 Manual, Security, Exploratory, Functional & API Testing
 - 📋 Tested: Authentication, dashboard, security monitoring, reporting modules
 - 📊 All bugs logged in **JIRA** with reproduction steps & screenshots
@@ -151,7 +151,7 @@
 ---
 
 <p align="center">
-  <i>"Quality is never an accident; it is always the result of intelligent effort."</i>
+  <i>"Quality is never an accident, it is always the result of intelligent effort."</i>
 </p>
 
 <p align="center">
